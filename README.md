@@ -152,3 +152,30 @@ Osseins: Become the ultimate smiths of the land.
 Darkmon: Find peace through strength.
 
 Bloodlings: Spread magical reign across the world.
+
+## Branching Endings
+
+Your final ending depends on your chosen race:
+
+Fleshen: Rule the world with machinery and dominance.
+
+Osseins: Become the ultimate smiths of the land.
+
+Darkmon: Find peace through strength.
+
+Bloodlings: Spread magical reign across the world.
+
+## Future Plans
+
+Add voice narration for story progression.
+
+Implement save/load system.
+
+Expand with multiplayer combat mode.
+
+Add cinematic boss animations and spell particle effects.
+
+## Credits
+
+Developed by: [ken-a-c]
+Game Design, Story, and Code by: [ken-a-c]
